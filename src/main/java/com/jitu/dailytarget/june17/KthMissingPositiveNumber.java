@@ -14,7 +14,6 @@ public class KthMissingPositiveNumber {
         }
         return start + k;
     }
-
     public static void main(String[] args) {
         int [] arry={1,2,3,4};
         System.out.println( findKthPositive(arry,2));

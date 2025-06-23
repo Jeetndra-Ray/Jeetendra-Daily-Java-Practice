@@ -1,4 +1,4 @@
-package com.jitu.dailytarget.june23;
+package com.jitu.dailytarget.june23.stirngleetcode;
 
 public class GoalParserInterpretation {
     public static String interpret(String command) {

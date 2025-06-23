@@ -1,4 +1,4 @@
-package com.jitu.dailytarget.june23;
+package com.jitu.dailytarget.june23.stirngleetcode;
 
 public class CheckTwoStringArraysEquivalent {
     public static boolean arrayStringsAreEqual(String[] word1, String[] word2) {

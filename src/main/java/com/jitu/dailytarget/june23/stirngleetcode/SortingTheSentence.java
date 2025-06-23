@@ -1,4 +1,4 @@
-package com.jitu.dailytarget.june23;
+package com.jitu.dailytarget.june23.stirngleetcode;
 
 // https://leetcode.com/problems/sorting-the-sentence/description/
 public class SortingTheSentence {

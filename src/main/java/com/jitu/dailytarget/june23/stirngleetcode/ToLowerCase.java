@@ -1,4 +1,4 @@
-package com.jitu.dailytarget.june23;
+package com.jitu.dailytarget.june23.stirngleetcode;
 
 public class ToLowerCase {
     public static String toLowerCase(String s) {

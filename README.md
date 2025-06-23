@@ -57,7 +57,7 @@ DailyTarget/date/topic/programs.
 
 ## 🔗 Connect
 
-- 📂 **GitHub:** [Jeetendra’s Daily Java Practice](https://github.com//jitu-daily-java-practice)
+- 📂 **GitHub:** [Jeetendra’s Daily Java Practice](https://github.com/Jeetndra-Ray/Jeetendra-Daily-Java-Practice)
 - 📈 **Updated daily — follow to see my progress!**
 
 ---

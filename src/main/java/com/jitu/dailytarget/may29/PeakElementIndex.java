@@ -1,4 +1,4 @@
-package com.jitu.dailytarget.may30;
+package com.jitu.dailytarget.may29;
 
 public class PeakElementIndex {
     public static int findPeakElement(int[] nums) {

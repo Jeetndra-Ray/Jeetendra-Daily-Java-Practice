@@ -34,7 +34,7 @@ DailyTarget/date/topic/programs.
 
 ## 📈 Progress
 
-- ✅ 400+ problems solved and counting!
+- ✅ 350+ problems solved and counting!
 - ✅ Covers core logic and beginner-intermediate DSA.
 - ✅ Updated daily with new questions and solutions.
 

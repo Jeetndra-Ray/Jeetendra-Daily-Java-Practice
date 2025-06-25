@@ -24,7 +24,7 @@ public class BinarySearchInfinityArray {
 
     public static void main(String[] args) {
         int []nums = {2,3,3,3,4,5,5,6,6,8,9,10,10,11,12,22,};
-        int index=(binarySearchInfinityArray(nums,7));
+        int index=(binarySearchInfinityArray(nums,11));
         System.out.println(index);
     }
 }

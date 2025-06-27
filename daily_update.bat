@@ -10,7 +10,7 @@ REM Stage all changes
 git add .
 
 REM Commit with today's date
-git commit -m "Daily update: 2025-06-27"
+git commit -m "Daily update: %DATE%"
 
 REM Pull latest changes first to avoid conflicts
 git pull origin main --rebase
